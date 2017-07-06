@@ -1,0 +1,11 @@
+{
+   "name": "tns30npts",
+   "version": "0.0.1",
+   "main": "number-picker",
+   "nativescript": {
+       "platforms": {
+           "ios": "3.0.0",
+           "android": "3.0.0"
+       }
+   }
+}
